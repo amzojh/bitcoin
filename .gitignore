@@ -1,0 +1,11 @@
+*.dat
+awef.py
+~*
+*.ipynb
+*.log
+/log
+/html
+/dat
+.vscode/
+__pycache__/
+새 폴더/
